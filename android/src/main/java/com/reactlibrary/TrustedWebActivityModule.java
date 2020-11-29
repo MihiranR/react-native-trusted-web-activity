@@ -7,7 +7,7 @@ import com.facebook.react.bridge.Callback;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.customtabs.trusted.LauncherActivity;
+import com.google.androidbrowserhelper.trusted.LauncherActivity;
 
 public class TrustedWebActivityModule extends ReactContextBaseJavaModule {
 

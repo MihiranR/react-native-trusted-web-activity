@@ -73,7 +73,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation "com.github.GoogleChrome.custom-tabs-client:customtabs:3a71a75c9f"
+    implementation "com.google.androidbrowserhelper:androidbrowserhelper:2.0.1"
 }
 
 def configureReactNativePom(def pom) {

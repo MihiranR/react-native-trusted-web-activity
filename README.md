@@ -73,7 +73,7 @@ This is only available for Android.
 	```
 	dependencies{
 		...
-		implementation "com.github.GoogleChrome.custom-tabs-client:customtabs:3a71a75c9f"
+		implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.0.1'
 		...
 	}
 	```
