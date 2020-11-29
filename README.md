@@ -1,3 +1,5 @@
+![NPM Downloads](https://img.shields.io/npm/dt/react-native-trusted-web-activity)
+![NPM Version](https://img.shields.io/npm/v/react-native-trusted-web-activity)
 
 # react-native-trusted-web-activity
 
