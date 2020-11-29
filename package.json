@@ -1,7 +1,7 @@
 {
   "name": "react-native-trusted-web-activity",
   "title": "React Native Trusted Web Activity",
-  "version": "1.0.10",
+  "version": "1.1.0",
   "description": "A React Native Module for Trusted Web Activity on Android",
   "main": "index.js",
   "files": [
@@ -32,5 +32,9 @@
   "devDependencies": {
     "react": "^16.9.0",
     "react-native": "^0.61.5"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/MihiranR/react-native-trusted-web-activity"
   }
 }
